@@ -1,3 +1,19 @@
+//CFEMAIL
+//xcq41693960@xcq.email.cn
+//CFKEY
+//b7aa80d2739173eb8fd9994a925b65c98ed24
+//PASSWORD
+//xcq0607
+//PROXYIP
+//proxyip.jp.fxxk.dedyn.io
+//SUB
+//Trojan.fxxk.dedyn.io
+//SUBNAME
+//XCQ的订阅
+//URL
+//https://www.bing.com
+
+
 // worker.src.js
 import { connect } from "cloudflare:sockets";
 let password = 'auto';
